@@ -11,7 +11,9 @@ For Week 15 of MIT xPro's full-stack development course, we created a React-base
 - Dropdown menu instead of buttons to select user action (Deposit or Withdraw). 
 
 ## How to Run
-To run this application, simply: 
+To run this application locally, simply: 
 1. Clone this repository
 2. `cd` into project directory.
 3. Run `index.html` on local server. 
+
+or, you can just click: https://mxleach.github.io/react-atm/
